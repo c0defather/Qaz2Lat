@@ -1,4 +1,1 @@
-# Qaz2Lat
-Chrome extension that converts and replaces selected Kazakh texts from Cyrillic to Latin alphabet.
-
-
+This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
